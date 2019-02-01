@@ -22,5 +22,5 @@ git config --global user.name "Username"
 
 git config --global user.email "E-Mail"
 
-Then open Atom -> File -> Open Folder -> Danach Link von Linie 35 hineinkopieren
+Then open Atom -> File -> Open Folder ->  /c/xampp/htdocs/cooswitjes/shakennotstirred
 Fertig
